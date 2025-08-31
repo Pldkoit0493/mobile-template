@@ -1,7 +1,7 @@
 {
   "name": "@pldkoit0493/mobile-template",
   "main": "expo-router/entry",
-  "version": "1.0.1",
+  "version": "1.0.10",
   "scripts": {
     "start": "expo start --host lan",
     "android": "expo run:android",
@@ -43,5 +43,6 @@
     "eslint": "^9.25.0",
     "eslint-config-expo": "~9.2.0",
     "typescript": "~5.8.3"
-  }
+  },
+  "homepage": "https://github.com/Pldkoit0493/mobile-template"
 }
