@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    // my personal vscode extensions recommendation!! <33
+
+    // prettify your codes with:
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "AakashP.adb-qr",
+
+    //developer essentials:
+    "expo.vscode-expo-tools",
+    "christian-kohler.npm-intellisense",
+    "msjsdiag.vscode-react-native"
+  ]
+}
